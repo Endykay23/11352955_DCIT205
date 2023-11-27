@@ -78,6 +78,8 @@
   background-color: #866f3c;
   border-radius: 20px;
   padding: 10px 16px;
+  font-family: Open Sans, sans-serif;
+  text-decoration: none;
 }
 
 .div-block {
@@ -319,7 +321,7 @@
 .submit-button {
   height: 38px;
   background-color: #866f3c;
-  border-color: #866f3c;
+  border: none;
 }
 
 .text-field {
@@ -396,7 +398,7 @@
 }
 
 .div-block-13 {
-  width: 260px;
+  width: auto;
   border-top: 3px solid #e7cd96;
   padding-top: 0;
   padding-bottom: 0;
@@ -418,12 +420,20 @@
   font-weight: 600;
 }
 
+.text-block-3.elective {
+  font-size: 14px;
+  font-weight: 600;
+}
+
 .body {
   font-family: Open Sans, sans-serif;
 }
 
 .div-block-14 {
-  justify-content: space-between;
+  grid-column-gap: 32px;
+  grid-row-gap: 32px;
+  flex-direction: column;
+  justify-content: flex-start;
   margin-bottom: 60px;
   display: flex;
 }
@@ -493,5 +503,115 @@
 .container-3 {
   padding-top: 100px;
   padding-bottom: 100px;
+}
+
+.div-block-18 {
+  grid-column-gap: 24px;
+  grid-row-gap: 24px;
+  margin-bottom: 32px;
+  display: flex;
+}
+
+.courses {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.div-block-19 {
+  justify-content: space-between;
+  display: flex;
+}
+
+.div-block-20 {
+  margin-top: 12px;
+}
+
+.body-2 {
+  font-family: Open Sans, sans-serif;
+}
+
+.div-block-21 {
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  grid-template-rows: auto auto;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-auto-columns: 1fr;
+  margin-top: 0;
+  display: grid;
+}
+
+.text-block-4 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.link-4 {
+  color: #242323;
+  text-decoration: none;
+}
+
+.body-3 {
+  font-family: Open Sans, sans-serif;
+}
+
+.div-block-22 {
+  margin-bottom: 52px;
+}
+
+.announce {
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  grid-template-rows: auto auto;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-columns: 1fr;
+  align-content: space-between;
+  justify-content: stretch;
+  margin-bottom: 52px;
+  display: grid;
+}
+
+.link-5 {
+  color: #1d1d1d;
+  text-decoration: none;
+}
+
+.div-block-23 {
+  padding-top: 24px;
+  padding-bottom: 24px;
+  display: flex;
+}
+
+.heading-8 {
+  padding-left: 0;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.div-block-24 {
+  margin-left: 24px;
+}
+
+.paragraph-5 {
+  text-align: justify;
+}
+
+.body-4 {
+  font-family: Open Sans, sans-serif;
+}
+
+.bold-text-2 {
+  text-align: justify;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.link-6 {
+  text-decoration: none;
+}
+
+.bold-text-3 {
+  color: #d1b86f;
+  font-size: 20px;
+  font-weight: 700;
 }
 
