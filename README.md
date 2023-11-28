@@ -1,5 +1,4 @@
-# DCIT_205_IA
-SABADU ENDURANCE ABENA OFFEIBEA   11352955
+# SABADU ENDURANCE ABENA OFFEIBEA   11352955
 
 
 INTRODUCTION AND THE PURPOSE OF THE WEDSITE.
@@ -54,46 +53,57 @@ By following these steps, you should have a cloned and properly set up version o
 THE FOLLOWING ARE THE VARIOUS SCREENSHOTS OF MY WEDPAGES
 
 THE HOME PAGE
+<img width="1399" alt="Screenshot 2023-11-28 at 1 07 08 AM" src="https://github.com/Endykay23/11352955_DCIT205/assets/149303676/361b2f68-46e5-43fd-892b-d1b0a52245e0">
+<img width="1372" alt="Screenshot 2023-11-28 at 1 10 35 AM" src="https://github.com/Endykay23/11352955_DCIT205/assets/149303676/c317e9a0-3193-487c-9c0f-3d96be6ffd98">
 
-![Alt text](/pictures/Screenshot%202023-11-28%20at%201.07.08%20AM.png)
-![Alt text](/pictures/Screenshot%202023-11-28%20at%201.09.37%20AM.png)
-![Alt text](/pictures/Screenshot%202023-11-28%20at%201.10.35%20AM.png)
-![Alt text](/pictures/Screenshot%202023-11-28%20at%201.11.21%20AM.png)
+
+<img width="1424" alt="Screenshot 2023-11-28 at 1 11 21 AM" src="https://github.com/Endykay23/11352955_DCIT205/assets/149303676/74a56670-beed-4b6b-9f60-0f414c01049f">
+
 
 THE ABOUT PAGE
-![Alt text]
-![Alt text]
 
+<img width="1423" alt="Screenshot 2023-11-28 at 1 34 55 AM " src="https://github.com/Endykay23/11352955_DCIT205/assets/149303676/1a5bf641-18ab-40ad-a77d-975c14ff41ad">
+<img width="1309" alt="Screenshot 2023-11-28 at 1 36 15 AM " src="https://github.com/Endykay23/11352955_DCIT205/assets/149303676/53df9394-5133-455b-aae6-1619f0a86e22">
 
 THE FACULTY PAGE
-![Alt text]
+
+<img width="1285" alt="Screenshot 2023-11-28 at 1 37 24 AM " src="https://github.com/Endykay23/11352955_DCIT205/assets/149303676/7741566b-7f2f-425f-aab7-d63a241c2e58">
 
 
 THE CONCTACT US PAGE
-![Alt text]
+<img width="1099" alt="Screenshot 2023-11-28 at 1 41 18 AM " src="https://github.com/Endykay23/11352955_DCIT205/assets/149303676/ef87f0e8-0024-41f4-9569-d6664b9ad168">
+
 
 
 THE EVENTS PAGE
-![Alt text]
-![Alt text]
+<img width="1136" alt="Screenshot 2023-11-28 at 1 43 34 AM " src="https://github.com/Endykay23/11352955_DCIT205/assets/149303676/aed5e900-ba9a-43f4-80b5-dbe3474ea8eb">
+<img width="1419" alt="Screenshot 2023-11-28 at 1 42 55 AM " src="https://github.com/Endykay23/11352955_DCIT205/assets/149303676/08f043be-5ece-4800-9f2e-73a155dbc3d0">
+
 
 
 THE NEWS PAGE
-![Alt text]
+<img width="1209" alt="Screenshot 2023-11-28 at 1 50 10 AM " src="https://github.com/Endykay23/11352955_DCIT205/assets/149303676/c5728672-b02a-4161-92de-318d16ab91bf">
+
 
 
 THE RESEARCH PAGE
-![Alt text]
-![Alt text]
+<img width="1245" alt="Screenshot 2023-11-28 at 1 52 02 AM " src="https://github.com/Endykay23/11352955_DCIT205/assets/149303676/520a093e-c8f3-4df8-b407-37b0a4f4f842">
+
+<img width="1397" alt="Screenshot 2023-11-28 at 1 51 02 AM " src="https://github.com/Endykay23/11352955_DCIT205/assets/149303676/e8908895-a14c-47bc-a516-9bb67deee7b6">
+
 
 
 THE REQUIREMENTS PAGE
-![Alt text]
+
+<img width="1288" alt="Screenshot 2023-11-28 at 1 56 00 AM " src="https://github.com/Endykay23/11352955_DCIT205/assets/149303676/0d220ac4-3bd0-4708-8a92-c5ded3e3ea74">
+
 
 
 THE UNDERGRADUATE PAGE
-![Alt text]
-![Alt text]
+<img width="1358" alt="Screenshot 2023-11-28 at 1 58 39 AM " src="https://github.com/Endykay23/11352955_DCIT205/assets/149303676/956c4df5-b2ab-4335-8a53-51dfc694bb13">
+
+<img width="1349" alt="Screenshot 2023-11-28 at 1 56 57 AM " src="https://github.com/Endykay23/11352955_DCIT205/assets/149303676/b6860785-a3ad-47d4-8dfb-0fcbb04e9e26">
+
 
 
 LESSONS LEARNT FROM THE CREATION OF MY WEDPAGES
