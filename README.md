@@ -43,7 +43,7 @@ Additionally, the website may facilitate communication by providing contact info
 9. Run Tests (if applicable):**
    If the project includes a testing suite, run the tests to ensure that the initial setup is correct, and the project behaves as expected.
 
-10. **Start the Project:
+10. Start the Project:
     Initiate the project using the appropriate commands. This may involve starting a local server, launching an application, or executing other commands specified in the project documentation.
 
 11. Verify Setup:
